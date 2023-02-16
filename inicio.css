@@ -1,0 +1,13 @@
+.logo {
+	background-color: blueviolet;
+	display: flex;
+}
+.titulo {
+	background-color: black;
+}
+.tarjetas {
+	display: flex;
+}
+.caracteristicas {
+	display: flex;
+}
